@@ -12,7 +12,7 @@ Contenido del repositorio:
 ### -proyectojctg.html
 ### -portafolio.html
 ### -identidad.html
-### -cvu.html</h3>
+### -cvu.html
 ### -acerca.html
 ##
 
@@ -20,9 +20,9 @@ Contenido del repositorio:
   Estructura de la Plantilla:
 ##
 <p>
-### - css - Hojas de estilo para las páginas del HTML</h3>
-### - img - Imagenes utilizadas en la página del HTML</h3>
-### - varios - Archivos para el diseño de README</h3>
+### - css - Hojas de estilo para las páginas del HTML
+### - img - Imagenes utilizadas en la página del HTML
+### - varios - Archivos para el diseño de README
 </p>
 
 #### Autor: JulioTrugarDev
