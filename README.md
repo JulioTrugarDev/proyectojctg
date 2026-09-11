@@ -9,7 +9,7 @@ Contenido del repositorio:
 
 <h2>
   Archivos Principales:
-<h3>-proyectojctg.html</h3>
+<h3>-index.html</h3>
 <h3>-portafolio.html</h3>
 <h3>-identidad.html</h3>
 <h3>-cvu.html</h3>
